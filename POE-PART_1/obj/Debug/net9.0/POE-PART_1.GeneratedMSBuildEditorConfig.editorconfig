@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = POE_PART_1
+build_property.RootNamespace = POE_PART_1
+build_property.ProjectDir = C:\Users\walla\OneDrive\Desktop\events_ease_system_\events_ease_system_POE\POE-PART_1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\walla\OneDrive\Desktop\events_ease_system_\events_ease_system_POE\POE-PART_1
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Bookingg/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ2dcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Bookingg/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ2dcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Bookingg/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ2dcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Bookingg/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ2dcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Bookingg/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ2dcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Evvent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZ2ZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Evvent/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZ2ZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Evvent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZ2ZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Evvent/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZ2ZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Evvent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZ2ZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Venuee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Venuee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Venuee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Venuee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Venuee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/walla/OneDrive/Desktop/events_ease_system_/events_ease_system_POE/POE-PART_1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lk634o32vt

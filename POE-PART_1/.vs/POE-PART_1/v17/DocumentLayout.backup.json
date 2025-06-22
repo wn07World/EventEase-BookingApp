@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walla\\OneDrive\\Desktop\\events_ease_system_\\events_ease_system_POE\\POE-PART_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6805013-7FEF-46E5-B351-299BA666D5F0}|POE-PART_1.csproj|c:\\users\\walla\\onedrive\\desktop\\events_ease_system_\\events_ease_system_poe\\poe-part_1\\models\\controllers\\venueecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6805013-7FEF-46E5-B351-299BA666D5F0}|POE-PART_1.csproj|solutionrelative:models\\controllers\\venueecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6805013-7FEF-46E5-B351-299BA666D5F0}|POE-PART_1.csproj|c:\\users\\walla\\onedrive\\desktop\\events_ease_system_\\events_ease_system_poe\\poe-part_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6805013-7FEF-46E5-B351-299BA666D5F0}|POE-PART_1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6805013-7FEF-46E5-B351-299BA666D5F0}|POE-PART_1.csproj|c:\\users\\walla\\onedrive\\desktop\\events_ease_system_\\events_ease_system_poe\\poe-part_1\\models\\controllers\\bookinggcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6805013-7FEF-46E5-B351-299BA666D5F0}|POE-PART_1.csproj|solutionrelative:models\\controllers\\bookinggcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6805013-7FEF-46E5-B351-299BA666D5F0}|POE-PART_1.csproj|c:\\users\\walla\\onedrive\\desktop\\events_ease_system_\\events_ease_system_poe\\poe-part_1\\models\\controllers\\evventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6805013-7FEF-46E5-B351-299BA666D5F0}|POE-PART_1.csproj|solutionrelative:models\\controllers\\evventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\events_ease_system_\\events_ease_system_POE\\POE-PART_1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\events_ease_system_\\events_ease_system_POE\\POE-PART_1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAADVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T14:53:48.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EvventController.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\events_ease_system_\\events_ease_system_POE\\POE-PART_1\\Models\\Controllers\\EvventController.cs",
+              "RelativeDocumentMoniker": "Models\\Controllers\\EvventController.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\events_ease_system_\\events_ease_system_POE\\POE-PART_1\\Models\\Controllers\\EvventController.cs",
+              "RelativeToolTip": "Models\\Controllers\\EvventController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:19:20.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VenueeController.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\events_ease_system_\\events_ease_system_POE\\POE-PART_1\\Models\\Controllers\\VenueeController.cs",
+              "RelativeDocumentMoniker": "Models\\Controllers\\VenueeController.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\events_ease_system_\\events_ease_system_POE\\POE-PART_1\\Models\\Controllers\\VenueeController.cs",
+              "RelativeToolTip": "Models\\Controllers\\VenueeController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwF8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:19:10.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookinggController.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\OneDrive\\Desktop\\events_ease_system_\\events_ease_system_POE\\POE-PART_1\\Models\\Controllers\\BookinggController.cs",
+              "RelativeDocumentMoniker": "Models\\Controllers\\BookinggController.cs",
+              "ToolTip": "C:\\Users\\walla\\OneDrive\\Desktop\\events_ease_system_\\events_ease_system_POE\\POE-PART_1\\Models\\Controllers\\BookinggController.cs",
+              "RelativeToolTip": "Models\\Controllers\\BookinggController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:19:05.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
